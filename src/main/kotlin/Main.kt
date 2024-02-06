@@ -1,5 +1,5 @@
 fun main() {
     println("Enter your city...")
     val city = readlnOrNull()
-    println("User lives in $city")
+    println("User lives in  $city")
 }
